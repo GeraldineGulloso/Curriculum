@@ -1910,6 +1910,11 @@ footer .footer .copyright a:hover {
 	    .tarjeta-exp {
         margin: 20px 0;
     }
+	
+     section {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
 }
 
 @media (max-width: 321px) {
@@ -1932,5 +1937,9 @@ footer .footer .copyright a:hover {
 	
     .tarjeta-exp {
         margin: 20px 0;
+    }
+    section {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
     }
 }
