@@ -1936,7 +1936,9 @@ footer .footer .copyright a:hover {
     }
 	
     .tarjeta-exp {
-        margin: 20px 0;
+        margin: 20px 0 !important;
+	padding: 30px;
+	
     }
     section {
         padding-left: 10px !important;
