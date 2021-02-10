@@ -1920,7 +1920,7 @@ footer .footer .copyright a:hover {
 @media (max-width: 321px) {
 	
     .working-history, .education-history {
-        padding: 0px;
+        padding: 0px 10px;
     }
     .social-icons {
         display: none;
