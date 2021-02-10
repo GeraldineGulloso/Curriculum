@@ -1412,7 +1412,8 @@ footer .footer {
     border-radius: 8px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
-    line-height: 72px;
+    line-height: 20px;
+	padding: 25px;
 }
 
 footer .footer .name {
@@ -1905,7 +1906,7 @@ footer .footer .copyright a:hover {
     }
     footer .footer {
         line-height: 19px;
-        padding-top: 14px;
+        
     }
     .timeline li .line-title {
         line-height: 20px;
