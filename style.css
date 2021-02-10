@@ -760,6 +760,11 @@ ul.timeline {
     margin-top: -1px;
 }
 
+.timelin li .line-title {
+    font-size: 16px;
+    line-height: 1.3rem;
+}
+
 .timeline li .line-title {
     font-size: 16px;
     line-height: 1.3rem;
