@@ -81,6 +81,10 @@ hr {
     line-height: 30px;
 }
 
+.timeline-work {
+    list-style: none;
+}
+
 .working-history h2 {
     margin-left: 0;
     padding: 20px 0;
