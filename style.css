@@ -1902,6 +1902,9 @@ footer .footer .copyright a:hover {
         float: left !important;
         margin-top: 14px;
     }
+	    .tarjeta-exp {
+        margin: 20px 0;
+    }
 }
 
 @media (max-width: 321px) {
@@ -1920,5 +1923,9 @@ footer .footer .copyright a:hover {
     }
     .timeline li .line-title {
         line-height: 20px;
+    }
+	
+    .tarjeta-exp {
+        margin: 20px 0;
     }
 }
