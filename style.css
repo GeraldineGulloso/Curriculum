@@ -81,6 +81,12 @@ hr {
     line-height: 30px;
 }
 
+.working-history h2 {
+    margin-left: 0;
+    padding: 20px 0;
+    font-size: 24px;
+}
+
 .section-title {
     position: relative;
     display: inline-block;
