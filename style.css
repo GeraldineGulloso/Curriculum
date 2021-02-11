@@ -1918,6 +1918,11 @@ footer .footer .copyright a:hover {
         padding-left: 10px !important;
         padding-right: 10px !important;
     }
+	
+    .competencias {
+        padding: 0 30px;
+        padding-bottom: 20px;
+    }
 }
 
 @media (max-width: 321px) {
