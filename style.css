@@ -1908,8 +1908,10 @@ footer .footer .copyright a:hover {
         float: left !important;
         margin-top: 14px;
     }
-	    .tarjeta-exp {
+    
+    .tarjeta-exp {
         margin: 20px 0;
+	padding: 40px 30px;
     }
 	
      section {
@@ -1939,7 +1941,7 @@ footer .footer .copyright a:hover {
 	
     .tarjeta-exp {
         margin: 20px 0 !important;
-	padding: 30px;
+	padding: 40px 30px;
 	
     }
     section {
