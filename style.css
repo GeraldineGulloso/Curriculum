@@ -1948,4 +1948,9 @@ footer .footer .copyright a:hover {
         padding-left: 20px !important;
         padding-right: 20px !important;
     }
+	
+    .competencias {
+        padding: 0 30px;
+        padding-bottom: 20px;
+    }
 }
